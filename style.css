@@ -80,7 +80,7 @@ header {
 }
 .hero-main {
   width: 980px;
-  /* margin: auto; */
+  margin: auto;
   flex-direction: column;
   text-align: center;
   gap: 20px;
