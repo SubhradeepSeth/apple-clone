@@ -1395,6 +1395,29 @@ height: 648px;
 .get-more-4{
   gap: 32px;
 }
+.g51{
+  flex-direction: column;
+}
+.g5-top{
+  flex-direction: column;
+}
+.g5-top>div{
+  text-align: center;
+  color: #1D1D1F;
+text-align: center;
+font-family: "SF Pro Display", sans-serif;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.g5bn{
+  gap: 15px;
+}
+.g5-bot{
+  background: url();
+}
 
 
 /* Media Quaries */
@@ -1618,6 +1641,9 @@ height: 648px;
     flex-direction: column;
     gap: 40px;
     width:647px;
+  }
+  .get-more-4{
+    flex-direction: column;
   }
 }
 
@@ -2114,5 +2140,14 @@ height: 648px;
   .get-more-3{
     transform: scaleX(0.55);
     
+  }
+
+  .gm41{
+    width: 367px;
+    height: 367px;
+  }
+  .gm42{
+    width: 367px;
+    height: 367px;
   }
 }
